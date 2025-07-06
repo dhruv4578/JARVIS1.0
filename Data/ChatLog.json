@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "content": "who is tony "
+    },
+    {
+        "role": "assistant",
+        "content": "There are multiple individuals and fictional characters known as \"Tony.\" Based on the search results, here are a few notable ones:\n\n1. Tony Soprano: A fictional character from the HBO series \"The Sopranos.\"\n2. Tony Robbins: An American author, coach, and motivational speaker, known for his seminars and self-help books.\n3. Tony Stark: A fictional character from the Marvel Cinematic Universe, portrayed by Robert Downey Jr.\n4. Tony from LC Sign: An internet personality who sells light boxes and has gained popularity on Instagram.\n\nWhich Tony would you like to know more about?"
+    },
+    {
+        "role": "user",
+        "content": "What is the time and what is the current news?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff, the current time is 12 hours, 04 minutes, and 13 seconds on Wednesday, July 2, 2025.\n\nRegarding the current news, based on the search results, here are some of the top news headlines:\n\n1. Judge DISMISSES Jay-Z's 'extortion' lawsuit.\n2. Musk 'credits' Trump's conflict resolution amid feud, deportation warnings.\n3. BJP to get new UP chief?\n4. Covid vaccine causing sudden cardiac deaths?\n5. Union Cabinet approves Employment Linked Incentive Scheme to create jobs in manufacturing sector.\n6. NDA MPs walk out protesting Medha Patkar's presence at meet of parliamentary panel.\n7. Raj recalled painful moments after Smita's demise.\n8. 'AK64' likely to be announced in August 2025.\n\nPlease note that these news headlines are subject to change and might not reflect the most up-to-date information."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Dhruv! It's nice to assist you. What can I help you with today?"
+    },
+    {
+        "role": "user",
+        "content": "What is the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 12 hours, 47 minutes, and 55 seconds."
+    }
+]
